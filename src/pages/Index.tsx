@@ -416,7 +416,7 @@ const Index = () => {
                   </ul>
                 </div>
                 <p>✨ This is a <Badge variant="secondary">Beta Version</Badge>, constantly improving! ✨</p>
-                <p className="text-muted-foreground">Created by Rahul. Connect on <a href="https://instagram.com/developer_rahul_" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Instagram</a></p>
+                <p className="text-muted-foreground">Created by Sandeep. Connect on <a href="https://t.me/HackerXBhai" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Telegram</a></p>
                 <p className="text-muted-foreground">Site Visitors: <span>{Math.floor(Math.random() * 10000) + 100}</span> (simulated)</p>
               </CardContent>
             </Card>
@@ -510,21 +510,21 @@ const Index = () => {
           <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
             Built by{" "}
             <a
-              href="https://instagram.com/developer_rahul_"
+              href="https://t.me/HackerXBhai"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
-              developer_rahul_
+              @HackerXBhai
             </a>
             . The source code is available on{" "}
             <a
-              href="https://github.com/developer-rahul/lyrical-elements-react"
+              href="https://t.me/HackerXBhai"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
-              GitHub
+              Telegram
             </a>
             .
           </p>
